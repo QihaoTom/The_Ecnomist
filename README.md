@@ -6,3 +6,5 @@ In this part, I will pose some Chinese-related articles from *The Economist* for
 * [Trade War | 0421]()
 
 * [‘What Exactly Do You Fear?’- Students Test Limits of #MeToo in China | 0424]()
+
+* [Rulers of the world: read Karl Marx! | 0506]()
